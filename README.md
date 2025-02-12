@@ -1,4 +1,4 @@
-# Hello, I'm Genarodaniel! 👋
+# Hello, I'm Daniel Genaro! 👋
 
 ## Profile Views
 
