@@ -33,4 +33,4 @@ Feel free to reach out if you have any questions, suggestions, or just want to c
 ## GitHub Stats
 
 ![Genarodaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=genarodaniel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genarodaniel&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genarodaniel&layout=compact&theme=radical&cache=false)
