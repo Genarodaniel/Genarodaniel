@@ -8,29 +8,11 @@ Thanks for visiting my profile!
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. Here you'll find a variety of projects that showcase my interests and skills.
 
-## About Me
 
-- **Name:** Daniel Genaro
-- **Interests:** Software Development, Open Source, Cloud Computing
-- **Hobbies:** Coding, Reading, Gaming
-- **Location:** 🌍 Brazil
+- 🔭 I’m currently working as Software Enginner
 
-## My Skills
-
-- **Languages:** Go, PHP, JavaScript
-- **Frameworks:** Gin, Gorm, Fiber, Echo
-- **Tools:** Git, Docker, Kubernetes, CI/CD, AWS
-- **Databases:** MySQL, PostgreSQL, MongoDB
-
-
-## Get in Touch
-
-- **Email:** [danielgenaro198@gmail.com](mailto:danielgenaro198@gmail.com)
-- **LinkedIn:** [linkedin.com/in/danielgenaro7](https://www.linkedin.com/in/danielgenaro7/)
-
-Feel free to reach out if you have any questions, suggestions, or just want to connect!
-
-## GitHub Stats
-
-![Genarodaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=genarodaniel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genarodaniel&layout=compact&theme=radical&cache=false)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Genarodaniel&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Genarodaniel&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Genarodaniel&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Genarodaniel&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Genarodaniel&theme=github)
